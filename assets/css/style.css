@@ -1,0 +1,83 @@
+body {
+	background-color: #000000;
+	color: #eeff00;
+}
+
+
+html {
+	border: 20px solid;
+
+	min-height: 100%;
+}
+#starwarscharacters {
+	font-family: 'Press Start 2P', cursive;
+	font-size: 36px;
+}
+
+.container {
+	opacity: 1;
+	margin-left: 35px;
+}
+
+button {
+    font-family: 'Press Start 2P', cursive;
+    margin: 5px;
+    background-color: #eeff00;
+    color: black;
+    font-size: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-color: #eeff00;
+    border-radius: 5px;
+}
+
+#starwars-input {
+	float: right;
+    padding-right: 10%;
+    font-family: 'Press Start 2P', cursive;
+}
+
+label {
+	font-size: 25px;
+	font-weight: bolder;
+}
+
+#add-starwars {
+	padding: 5px 10px 5px 10px;
+	margin-top: 10px;
+	border-radius: 5px;
+	background-color: #eeff00;
+	color: white;
+}
+
+#starwars-input {
+	margin-top: 10px;
+	height: 20px;
+}
+
+#starwarsview {
+	margin-top: 10px;
+	margin-right: 25%;
+}
+
+.starwarspictures {
+	float: left;
+	display: inline;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+h2 {
+	margin-top: 5px;
+    margin-bottom: 15px;
+	font-size: 20px;
+	font-weight: bold;
+	color: #eeff00;
+}
+
+
+
+
+
